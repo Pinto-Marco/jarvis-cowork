@@ -1,0 +1,8 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "Legge ad alta voce il briefing finale di Claude con la voce del Mac, stile Jarvis",
+  "author": {
+    "name": "Marco Pinto"
+  }
+}

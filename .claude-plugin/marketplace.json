@@ -1,0 +1,5 @@
+{
+  "name": "jarvis-cowork",
+  "owner": { "name": "Marco Pinto" },
+  "plugins": [{ "name": "jarvis", "source": "./" }]
+}
